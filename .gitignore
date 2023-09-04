@@ -1,4 +1,5 @@
 ### .gitignore ###
+ARCHIVE
 target/
 test-output/
 build/
